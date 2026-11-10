@@ -8,7 +8,7 @@ body {
 .kartu-profil {
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menegahkan kiri/kana */
-  paddiing: 20px;
+  padding: 20px;
   background-color: black;
   border-radius: 15px; /*membuat sudut menjadi melengkung */
   box-shadow: 0 4px 8px rgba(o,o,o,o,1)* efek bayangan */
